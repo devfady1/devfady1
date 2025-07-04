@@ -41,7 +41,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Contact me at <b>your-email@example.com</b> 」
+    「 Contact me at <b>fadya5323@gmail.com</b> 」
     <br>
     <br>
   </samp>
